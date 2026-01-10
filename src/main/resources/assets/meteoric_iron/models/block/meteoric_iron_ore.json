@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "meteoric_iron:block/meteoric_iron_ore"
+  }
+}

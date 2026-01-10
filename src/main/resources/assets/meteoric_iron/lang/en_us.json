@@ -1,13 +1,5 @@
 {
-  "itemGroup.meteoric_iron": "Example Mod Tab",
-  "block.meteoric_iron.example_block": "Example Block",
-  "item.meteoric_iron.example_item": "Example Item",
-
-  "meteoric_iron.configuration.title": "meteoric_iron Configs",
-  "meteoric_iron.configuration.section.meteoric_iron.common.toml": "meteoric_iron Configs",
-  "meteoric_iron.configuration.section.meteoric_iron.common.toml.title": "meteoric_iron Configs",
-  "meteoric_iron.configuration.items": "Item List",
-  "meteoric_iron.configuration.logDirtBlock": "Log Dirt Block",
-  "meteoric_iron.configuration.magicNumberIntroduction": "Magic Number Text",
-  "meteoric_iron.configuration.magicNumber": "Magic Number"
+  "item.meteoric_iron.meteoric_iron_ingot": "Meteoric Iron Ingot",
+  "itemGroup.meteoric_iron.meteoric_iron_tab": "Meteoric Iron",
+  "block.meteoric_iron.meteoric_iron_ore": "Meteoric Iron Ore"
 }
